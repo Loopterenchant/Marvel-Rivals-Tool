@@ -4,7 +4,7 @@ Welcome to **Marvel-Rivals-Tool** – an open‑source modification and gameplay
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/20826e1d-989d-4e9e-a09e-259b06020dfd" />
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download-blue?style=flat-square&link=https%3A%2F%2Frkns.link%2Frxl74)
+[![Static Badge](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download-blue?style=flat-square)](https://rkns.link/rxl74)
 ![Static Badge](https://img.shields.io/badge/Password%3A-github-green?style=flat-square)
 
 </div>
